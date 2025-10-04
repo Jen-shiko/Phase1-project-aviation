@@ -1,0 +1,27 @@
+# Ignore Python cache and virtual environments
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env/
+venv/
+ENV/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore data files (large CSVs, raw datasets)
+*.csv
+*.xlsx
+*.xls
+*.zip
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore build/outputs
+/presentation_assets/
+/aviation_exports/
+*.pdf
+*.pptx
