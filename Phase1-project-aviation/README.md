@@ -20,9 +20,31 @@ Goal: is to gain insights into aviation safety and identify patterns that will e
 - Visualization & Communication
 
 ## Key Visualizations
-aviation_project_notebook.pdf
+### Accidents and Incidents Over the Years
+![Accidents over time](Images/Accidenttrend.png)
+![Incidents over time](Images/Incidenttrend.png)
+![Injuries over time](Images/Injurytrend.png)
+
+### Injuries Severity
+![Injury severity pie chart](Images/InjurySeverity.png)
+
+### Flight Analysis
+![Fatalities based on phase of flight](Images/Flightphases1.png)
+![Accidents based on phase of flight](Images/Flightphases2.png)
+
+### Top Aircraft Events Analyzed by Make
+![Aircraft accidents by Make](Images/Accidentmake.png)
+![Aircraft fatality by  Make](Images/Makefatality.png)
+
+### Top Aircraft Models Accidents
+![Aircraft models risk](Images/Modelaccidents.png)
+
 ## Dashboard
-aviation data project dashboard.pdf
+You can interact with the full dashboard here:  
+[View Tableau Dashboard]([https://public.tableau.com/app/profile/jeniffer.mbugua1611/viz/AviationdataProjectWorkbook/AviationSafetyInsightsDashboard]
+
+Or preview below:  
+[![Dashboard Preview](Images/Dashboardpreview.png)]
 
 ## Findings
 1. Accidents over the years
@@ -51,5 +73,5 @@ aviation data project dashboard.pdf
 5. The company should invest in aircraft with strong safety records and crashworthiness.Proactive risk management strategies (maintenance, inspections) can keep fatality rates low.
 6. The company should adopt a commercial-grade operational model, even if entering private charter markets.Safety culture and compliance with airline-level standards will minimize risk.
 
-## Appendix / Slides
+## Appendix
 Aviation Risk analysis.pdf
