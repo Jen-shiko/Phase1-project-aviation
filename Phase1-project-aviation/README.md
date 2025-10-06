@@ -13,11 +13,10 @@ Goal: is to gain insights into aviation safety and identify patterns that will e
 ## Objectives
 - Assess Aircraft Risk
 - Data Cleaning & Preparation
-- Trend Analysis
-- Model-Level Insights
-- Injury Severity Analysis
+- Analysis & Visualization
+- Findings
 - Business Recommendations
-- Visualization & Communication
+
 
 ## Key Visualizations
 ### Accidents and Incidents Over the Years
@@ -74,4 +73,6 @@ Or preview below:
 6. The company should adopt a commercial-grade operational model, even if entering private charter markets.Safety culture and compliance with airline-level standards will minimize risk.
 
 ## Appendix
-Aviation Risk analysis.pdf
+[📄 Aviation Anlysis Presentation Slides (PDF)](Aviation_presentation_slides.pdf)
+[📄 Aviation Project Dashboard (PDF)](Aviation_dashboard.pdf)
+[📄 Aviation Analysis Notebook](aviation_project.ipynb)
