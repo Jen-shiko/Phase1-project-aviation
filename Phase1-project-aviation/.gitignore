@@ -23,4 +23,5 @@ Thumbs.db
 # Ignore build/outputs
 /presentation_assets/
 /aviation_exports/
-
+*.pdf
+*.pptx
