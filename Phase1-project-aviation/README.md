@@ -43,7 +43,7 @@ You can interact with the full dashboard here:
 [View Tableau Dashboard]([https://public.tableau.com/app/profile/jeniffer.mbugua1611/viz/AviationdataProjectWorkbook/AviationSafetyInsightsDashboard]
 
 Or preview below:  
-[![Dashboard Preview](Images/Dashboardpreview.png)]
+![Dashboard Preview](Images/Dashboardpreview.png)
 
 ## Findings
 1. Accidents over the years
@@ -76,3 +76,5 @@ Or preview below:
 [📄 Aviation Anlysis Presentation Slides (PDF)](Aviation_presentation_slides.pdf)
 [📄 Aviation Project Dashboard (PDF)](Aviation_dashboard.pdf)
 [📄 Aviation Analysis Notebook](aviation_project.ipynb)
+[📄 Aviation Analysis Notebook(PDF)](aviation_project_notebook.pdf)
+
