@@ -11,7 +11,6 @@ ENV/
 .ipynb_checkpoints/
 
 # Ignore data files (large CSVs, raw datasets)
-*.csv
 *.xlsx
 *.xls
 *.zip
@@ -23,5 +22,4 @@ Thumbs.db
 # Ignore build/outputs
 /presentation_assets/
 /aviation_exports/
-*.pdf
-*.pptx
+
